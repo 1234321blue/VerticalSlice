@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4129e499bac604ee58f5e0f1dbf5251d, type: 3}
   m_Name: StartingQuest
   m_EditorClassIdentifier: 
-  timer: 5
+  timer: 30
   questName: Reach the goal
   nextQuest: {fileID: 11400000, guid: 59137b972bbc94b73a9f7f8f80268d11, type: 2}
