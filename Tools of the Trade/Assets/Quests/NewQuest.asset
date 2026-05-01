@@ -12,7 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4129e499bac604ee58f5e0f1dbf5251d, type: 3}
   m_Name: NewQuest
   m_EditorClassIdentifier: 
-  timer: 0
-  questName: 
-  completion: 0
+  timer: 10
+  questName: Uhhhhhhh
   nextQuest: {fileID: 0}
